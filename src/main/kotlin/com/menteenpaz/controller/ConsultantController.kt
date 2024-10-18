@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*
 import java.util.*
 
 @RestController
+@CrossOrigin(origins = ["http://localhost:3000"])
 class ConsultantController(
     private val consultantService: ConsultantService
 ) {
