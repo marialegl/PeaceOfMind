@@ -1,6 +1,5 @@
-package com.menteenpaz.controller
+/* package com.menteenpaz.controller
 
-import com.menteenpaz.controller.dto.ReasonForConsultationDto
 import com.menteenpaz.service.ReasonForConsultationService
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
@@ -80,3 +79,4 @@ class ReasonForConsultationController(
         return ResponseEntity(HttpStatus.OK)
     }
 }
+ */

@@ -1,4 +1,4 @@
-package com.menteenpaz.domain
+/* package com.menteenpaz.domain
 
 import jakarta.persistence.*
 import java.util.*
@@ -57,3 +57,4 @@ data class ReasonForConsultation(
         scheduledSessions = sessions
     }
 }
+ */
